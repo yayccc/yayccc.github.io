@@ -1,16 +1,17 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yayahaokeai.github.io</id>
+    <id>https://yayccc.github.io</id>
     <title> • Posts by &#34;博客建立&#34; tag</title>
-    <link href="https://yayahaokeai.github.io" />
+    <link href="https://yayccc.github.io" />
     <updated>2024-07-27T10:01:48.000Z</updated>
     <category term="基础算法" />
     <category term="博客建立" />
     <category term="CPP" />
+    <category term="教程" />
     <entry>
-        <id>https://yayahaokeai.github.io/2024/07/27/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E5%9B%BE/</id>
+        <id>https://yayccc.github.io/2024/07/27/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E5%9B%BE/</id>
         <title>自定义文章封面图</title>
-        <link rel="alternate" href="https://yayahaokeai.github.io/2024/07/27/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E5%9B%BE/"/>
+        <link rel="alternate" href="https://yayccc.github.io/2024/07/27/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E5%9B%BE/"/>
         <content type="html">&lt;h1 id=&#34;自定义文章封面图&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自定义文章封面图&#34;&gt;#&lt;/a&gt; 自定义文章封面图&lt;/h1&gt;
 &lt;p&gt;可以在 markdown 文件的顶部&lt;/p&gt;
 &lt;p&gt;用 &lt;code&gt;cover: cover.jpg&lt;/code&gt;  属性来显示文章封面&lt;/p&gt;
@@ -28,9 +29,9 @@ cover: cover.jpeg #文章封面的对应图片资源&lt;br /&gt;
         <updated>2024-07-27T10:01:48.000Z</updated>
     </entry>
     <entry>
-        <id>https://yayahaokeai.github.io/2024/07/23/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/</id>
+        <id>https://yayccc.github.io/2024/07/23/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/</id>
         <title>hexo常用指令</title>
-        <link rel="alternate" href="https://yayahaokeai.github.io/2024/07/23/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/"/>
+        <link rel="alternate" href="https://yayccc.github.io/2024/07/23/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/"/>
         <content type="html">&lt;h1 id=&#34;hexo常用指令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo常用指令&#34;&gt;#&lt;/a&gt; hexo 常用指令&lt;/h1&gt;
 &lt;h2 id=&#34;new&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#new&#34;&gt;#&lt;/a&gt; New&lt;/h2&gt;
 &lt;h3 id=&#34;创建文章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创建文章&#34;&gt;#&lt;/a&gt; 创建文章&lt;/h3&gt;

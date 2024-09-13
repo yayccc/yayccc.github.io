@@ -2,11 +2,11 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "null • All posts by \"博客建立\" category",
     "description": "",
-    "home_page_url": "https://yayahaokeai.github.io",
+    "home_page_url": "https://yayccc.github.io",
     "items": [
         {
-            "id": "https://yayahaokeai.github.io/2024/07/27/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E5%9B%BE/",
-            "url": "https://yayahaokeai.github.io/2024/07/27/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E5%9B%BE/",
+            "id": "https://yayccc.github.io/2024/07/27/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E5%9B%BE/",
+            "url": "https://yayccc.github.io/2024/07/27/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E5%9B%BE/",
             "title": "自定义文章封面图",
             "date_published": "2024-07-27T10:01:48.000Z",
             "content_html": "<h1 id=\"自定义文章封面图\"><a class=\"anchor\" href=\"#自定义文章封面图\">#</a> 自定义文章封面图</h1>\n<p>可以在 markdown 文件的顶部</p>\n<p>用 <code>cover: cover.jpg</code>  属性来显示文章封面</p>\n<blockquote>\n<p>title:  文章名字<br />\n date: 2024-7-27 17:00:00<br />\ncover: cover.jpeg #文章封面的对应图片资源<br />\n categories:    #分类<br />\n tags:   #标签</p>\n</blockquote>\n<p>然后也需要你的配置文件 <code>_config.yml</code>  中设置 <code>post_asset_folder: true</code></p>\n<p>再把需要用的图片放到文章对应的文件夹中</p>\n",
@@ -15,8 +15,8 @@
             ]
         },
         {
-            "id": "https://yayahaokeai.github.io/2024/07/23/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/",
-            "url": "https://yayahaokeai.github.io/2024/07/23/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/",
+            "id": "https://yayccc.github.io/2024/07/23/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/",
+            "url": "https://yayccc.github.io/2024/07/23/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/",
             "title": "hexo常用指令",
             "date_published": "2024-07-23T10:17:30.000Z",
             "content_html": "<h1 id=\"hexo常用指令\"><a class=\"anchor\" href=\"#hexo常用指令\">#</a> hexo 常用指令</h1>\n<h2 id=\"new\"><a class=\"anchor\" href=\"#new\">#</a> New</h2>\n<h3 id=\"创建文章\"><a class=\"anchor\" href=\"#创建文章\">#</a> 创建文章</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo new <span class=\"token punctuation\">[</span>layout<span class=\"token punctuation\">]</span> <span class=\"token operator\">&lt;</span>title<span class=\"token operator\">></span></pre></td></tr></table></figure><p>新建一篇文章。 如果没有设置  <code>layout</code>  的话，默认用 <a href=\"https://hexo.io/zh-cn/docs/configuration\">_config.yml</a> 中的  <code>default_layout</code>  参数代替。</p>\n<p>也就是说，在不使用 layout 时，可以省略</p>\n<p>只写文章标题就行</p>\n<p>例如  <code>hexo new aboutMysite</code></p>\n<p>就会在 <code>source/_posts</code>  文件夹中创建 <code>aboutMysite.md</code>  文件</p>\n<p>如果标题包含空格的话，请使用引号 “” 括起来。</p>\n<h3 id=\"创建分类categories\"><a class=\"anchor\" href=\"#创建分类categories\">#</a> 创建分类 categories</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo new page categories</pre></td></tr></table></figure><p>在 <code>source/categories</code>  文件夹中创建一个 <code>index.md</code>  文件</p>\n<p>打开 index.md 文件后</p>\n<p>在里面里面添加 <code>type: categories</code></p>\n<blockquote>\n<p>title: 分类的名字<br />\n date: 2024-7-27 18:00:00<br />\ntype: categories</p>\n</blockquote>\n<h2 id=\"clean\"><a class=\"anchor\" href=\"#clean\">#</a> Clean</h2>\n<p>清除缓存文件（db.json）和已生成的静态文件（public）</p>\n<p>一般是网站改动较大时，需要 <code>clean</code> ，然后再生成静态文件</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo clean</pre></td></tr></table></figure><h2 id=\"server\"><a class=\"anchor\" href=\"#server\">#</a> Server</h2>\n<p>启动服务器。 默认情况下，访问网为：  <code>http://localhost:4000/</code> 。</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo s</pre></td></tr></table></figure><h2 id=\"generate\"><a class=\"anchor\" href=\"#generate\">#</a> Generate</h2>\n<p>生成静态文件</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo g</pre></td></tr></table></figure><h2 id=\"deploy\"><a class=\"anchor\" href=\"#deploy\">#</a> Deploy</h2>\n<p>部署站点，在本地生成 <code>.deploy_git</code>  文件夹，并将编译后的文件上传至 GitHub。</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo d</pre></td></tr></table></figure><h2 id=\"backup-and-migration\"><a class=\"anchor\" href=\"#backup-and-migration\">#</a> Backup and Migration</h2>\n<p>1. 备份根目录</p>\n<p>2. 重新安装 hexo</p>\n<p>3. 使用备份覆盖 hexo 的目录</p>\n<p>4.clean 后 generate，然后 server 和 deploy</p>\n",
