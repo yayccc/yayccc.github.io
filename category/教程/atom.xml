@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yayccc.github.io</id>
+    <id>https://yayaccc.us.kg</id>
     <title> • Posts by &#34;教程&#34; category</title>
-    <link href="https://yayccc.github.io" />
+    <link href="https://yayaccc.us.kg" />
     <updated>2024-09-13T12:50:56.000Z</updated>
     <category term="基础算法" />
     <category term="博客建立" />
     <category term="CPP" />
     <category term="教程" />
     <entry>
-        <id>https://yayccc.github.io/2024/09/13/%E9%85%8D%E7%BD%AEVSCode/</id>
+        <id>https://yayaccc.us.kg/2024/09/13/%E9%85%8D%E7%BD%AEVSCode/</id>
         <title>配置VScode详细教程</title>
-        <link rel="alternate" href="https://yayccc.github.io/2024/09/13/%E9%85%8D%E7%BD%AEVSCode/"/>
+        <link rel="alternate" href="https://yayaccc.us.kg/2024/09/13/%E9%85%8D%E7%BD%AEVSCode/"/>
         <content type="html">&lt;h1 id=&#34;为什么使用vscode&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么使用vscode&#34;&gt;#&lt;/a&gt; 为什么使用 VScode？&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;轻量高效&lt;/strong&gt;，作为一个代码编辑软件，vscode 的启动迅速，写起来也十分高效&lt;br /&gt;

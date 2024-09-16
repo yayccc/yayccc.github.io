@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yayccc.github.io</id>
+    <id>https://yayaccc.us.kg</id>
     <title> • Posts by &#34;cpp&#34; tag</title>
-    <link href="https://yayccc.github.io" />
+    <link href="https://yayaccc.us.kg" />
     <updated>2024-07-29T15:16:17.000Z</updated>
     <category term="基础算法" />
     <category term="博客建立" />
     <category term="CPP" />
     <category term="教程" />
     <entry>
-        <id>https://yayccc.github.io/2024/07/29/Cpp%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84%E9%94%99%E8%AF%AF%EF%BC%9A%E5%8D%95%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E9%80%9A%E7%94%A8%E5%AD%97%E7%AC%A6%E5%90%8D%E6%A0%BC%E5%BC%8F%E4%B8%8D%E6%AD%A3%E7%A1%AE/</id>
+        <id>https://yayaccc.us.kg/2024/07/29/Cpp%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84%E9%94%99%E8%AF%AF%EF%BC%9A%E5%8D%95%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E9%80%9A%E7%94%A8%E5%AD%97%E7%AC%A6%E5%90%8D%E6%A0%BC%E5%BC%8F%E4%B8%8D%E6%AD%A3%E7%A1%AE/</id>
         <title>Cpp文件路径错误：单反斜杠导致的通用字符名格式不正确</title>
-        <link rel="alternate" href="https://yayccc.github.io/2024/07/29/Cpp%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84%E9%94%99%E8%AF%AF%EF%BC%9A%E5%8D%95%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E9%80%9A%E7%94%A8%E5%AD%97%E7%AC%A6%E5%90%8D%E6%A0%BC%E5%BC%8F%E4%B8%8D%E6%AD%A3%E7%A1%AE/"/>
+        <link rel="alternate" href="https://yayaccc.us.kg/2024/07/29/Cpp%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84%E9%94%99%E8%AF%AF%EF%BC%9A%E5%8D%95%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E9%80%9A%E7%94%A8%E5%AD%97%E7%AC%A6%E5%90%8D%E6%A0%BC%E5%BC%8F%E4%B8%8D%E6%AD%A3%E7%A1%AE/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;问题&lt;/strong&gt;：在学习文件操作时，出现了报错 “&lt;strong&gt;通用字符名格式不正确&lt;/strong&gt;” 。&lt;br /&gt;
 经过查阅资料，对于 Windows 系统，文件路径中使用反斜杠  &lt;code&gt;\&lt;/code&gt;  作为目录分隔符。然而，如果在代码中只使用单个反斜杠  &lt;code&gt;\&lt;/code&gt; ，可能会引发格式不正确的通用字符名错误。这是因为反斜杠在 C++ 中是转义字符，用来表示特殊字符序列，例如  &lt;code&gt;\n&lt;/code&gt;  表示换行， &lt;code&gt;\t&lt;/code&gt;  表示制表符。&lt;/p&gt;
 &lt;h1 id=&#34;问题描述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#问题描述&#34;&gt;#&lt;/a&gt; 问题描述&lt;/h1&gt;
@@ -30,9 +30,9 @@
         <updated>2024-07-29T15:16:17.000Z</updated>
     </entry>
     <entry>
-        <id>https://yayccc.github.io/2024/07/28/Cpp%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/</id>
+        <id>https://yayaccc.us.kg/2024/07/28/Cpp%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/</id>
         <title>Cpp面向对象编程</title>
-        <link rel="alternate" href="https://yayccc.github.io/2024/07/28/Cpp%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/"/>
+        <link rel="alternate" href="https://yayaccc.us.kg/2024/07/28/Cpp%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/"/>
         <content type="html">&lt;h1 id=&#34;c核心编程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#c核心编程&#34;&gt;#&lt;/a&gt; C++ 核心编程&lt;/h1&gt;
 &lt;h1 id=&#34;面向对象的三大特性封装继承多态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#面向对象的三大特性封装继承多态&#34;&gt;#&lt;/a&gt; 面向对象的三大特性：封装，继承，多态&lt;/h1&gt;
 &lt;h1 id=&#34;类和对象&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#类和对象&#34;&gt;#&lt;/a&gt; 类和对象&lt;/h1&gt;

@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yayccc.github.io</id>
+    <id>https://yayaccc.us.kg</id>
     <title></title>
-    <link href="https://yayccc.github.io" />
+    <link href="https://yayaccc.us.kg" />
     <updated>2024-09-13T12:50:56.000Z</updated>
     <category term="基础算法" />
     <category term="博客建立" />
     <category term="CPP" />
     <category term="教程" />
     <entry>
-        <id>https://yayccc.github.io/2024/09/13/%E9%85%8D%E7%BD%AEVSCode/</id>
+        <id>https://yayaccc.us.kg/2024/09/13/%E9%85%8D%E7%BD%AEVSCode/</id>
         <title>配置VScode详细教程</title>
-        <link rel="alternate" href="https://yayccc.github.io/2024/09/13/%E9%85%8D%E7%BD%AEVSCode/"/>
+        <link rel="alternate" href="https://yayaccc.us.kg/2024/09/13/%E9%85%8D%E7%BD%AEVSCode/"/>
         <content type="html">&lt;h1 id=&#34;为什么使用vscode&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么使用vscode&#34;&gt;#&lt;/a&gt; 为什么使用 VScode？&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;轻量高效&lt;/strong&gt;，作为一个代码编辑软件，vscode 的启动迅速，写起来也十分高效&lt;br /&gt;
@@ -82,9 +82,9 @@ Windows 10，64 位及以后版本推荐下载 &lt;code&gt;x86_64-14.2.0-release
         <updated>2024-09-13T12:50:56.000Z</updated>
     </entry>
     <entry>
-        <id>https://yayccc.github.io/2024/07/29/Cpp%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84%E9%94%99%E8%AF%AF%EF%BC%9A%E5%8D%95%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E9%80%9A%E7%94%A8%E5%AD%97%E7%AC%A6%E5%90%8D%E6%A0%BC%E5%BC%8F%E4%B8%8D%E6%AD%A3%E7%A1%AE/</id>
+        <id>https://yayaccc.us.kg/2024/07/29/Cpp%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84%E9%94%99%E8%AF%AF%EF%BC%9A%E5%8D%95%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E9%80%9A%E7%94%A8%E5%AD%97%E7%AC%A6%E5%90%8D%E6%A0%BC%E5%BC%8F%E4%B8%8D%E6%AD%A3%E7%A1%AE/</id>
         <title>Cpp文件路径错误：单反斜杠导致的通用字符名格式不正确</title>
-        <link rel="alternate" href="https://yayccc.github.io/2024/07/29/Cpp%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84%E9%94%99%E8%AF%AF%EF%BC%9A%E5%8D%95%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E9%80%9A%E7%94%A8%E5%AD%97%E7%AC%A6%E5%90%8D%E6%A0%BC%E5%BC%8F%E4%B8%8D%E6%AD%A3%E7%A1%AE/"/>
+        <link rel="alternate" href="https://yayaccc.us.kg/2024/07/29/Cpp%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84%E9%94%99%E8%AF%AF%EF%BC%9A%E5%8D%95%E5%8F%8D%E6%96%9C%E6%9D%A0%E5%AF%BC%E8%87%B4%E7%9A%84%E9%80%9A%E7%94%A8%E5%AD%97%E7%AC%A6%E5%90%8D%E6%A0%BC%E5%BC%8F%E4%B8%8D%E6%AD%A3%E7%A1%AE/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;问题&lt;/strong&gt;：在学习文件操作时，出现了报错 “&lt;strong&gt;通用字符名格式不正确&lt;/strong&gt;” 。&lt;br /&gt;
 经过查阅资料，对于 Windows 系统，文件路径中使用反斜杠  &lt;code&gt;\&lt;/code&gt;  作为目录分隔符。然而，如果在代码中只使用单个反斜杠  &lt;code&gt;\&lt;/code&gt; ，可能会引发格式不正确的通用字符名错误。这是因为反斜杠在 C++ 中是转义字符，用来表示特殊字符序列，例如  &lt;code&gt;\n&lt;/code&gt;  表示换行， &lt;code&gt;\t&lt;/code&gt;  表示制表符。&lt;/p&gt;
 &lt;h1 id=&#34;问题描述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#问题描述&#34;&gt;#&lt;/a&gt; 问题描述&lt;/h1&gt;
@@ -103,9 +103,9 @@ Windows 10，64 位及以后版本推荐下载 &lt;code&gt;x86_64-14.2.0-release
         <updated>2024-07-29T15:16:17.000Z</updated>
     </entry>
     <entry>
-        <id>https://yayccc.github.io/2024/07/28/Cpp%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/</id>
+        <id>https://yayaccc.us.kg/2024/07/28/Cpp%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/</id>
         <title>Cpp面向对象编程</title>
-        <link rel="alternate" href="https://yayccc.github.io/2024/07/28/Cpp%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/"/>
+        <link rel="alternate" href="https://yayaccc.us.kg/2024/07/28/Cpp%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/"/>
         <content type="html">&lt;h1 id=&#34;c核心编程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#c核心编程&#34;&gt;#&lt;/a&gt; C++ 核心编程&lt;/h1&gt;
 &lt;h1 id=&#34;面向对象的三大特性封装继承多态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#面向对象的三大特性封装继承多态&#34;&gt;#&lt;/a&gt; 面向对象的三大特性：封装，继承，多态&lt;/h1&gt;
 &lt;h1 id=&#34;类和对象&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#类和对象&#34;&gt;#&lt;/a&gt; 类和对象&lt;/h1&gt;
@@ -277,9 +277,9 @@ Windows 10，64 位及以后版本推荐下载 &lt;code&gt;x86_64-14.2.0-release
         <updated>2024-07-28T03:53:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://yayccc.github.io/2024/07/27/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E5%9B%BE/</id>
+        <id>https://yayaccc.us.kg/2024/07/27/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E5%9B%BE/</id>
         <title>自定义文章封面图</title>
-        <link rel="alternate" href="https://yayccc.github.io/2024/07/27/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E5%9B%BE/"/>
+        <link rel="alternate" href="https://yayaccc.us.kg/2024/07/27/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2%E5%9B%BE/"/>
         <content type="html">&lt;h1 id=&#34;自定义文章封面图&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自定义文章封面图&#34;&gt;#&lt;/a&gt; 自定义文章封面图&lt;/h1&gt;
 &lt;p&gt;可以在 markdown 文件的顶部&lt;/p&gt;
 &lt;p&gt;用 &lt;code&gt;cover: cover.jpg&lt;/code&gt;  属性来显示文章封面&lt;/p&gt;
@@ -297,9 +297,9 @@ cover: cover.jpeg #文章封面的对应图片资源&lt;br /&gt;
         <updated>2024-07-27T10:01:48.000Z</updated>
     </entry>
     <entry>
-        <id>https://yayccc.github.io/2024/07/23/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/</id>
+        <id>https://yayaccc.us.kg/2024/07/23/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/</id>
         <title>hexo常用指令</title>
-        <link rel="alternate" href="https://yayccc.github.io/2024/07/23/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/"/>
+        <link rel="alternate" href="https://yayaccc.us.kg/2024/07/23/hexo%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/"/>
         <content type="html">&lt;h1 id=&#34;hexo常用指令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo常用指令&#34;&gt;#&lt;/a&gt; hexo 常用指令&lt;/h1&gt;
 &lt;h2 id=&#34;new&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#new&#34;&gt;#&lt;/a&gt; New&lt;/h2&gt;
 &lt;h3 id=&#34;创建文章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#创建文章&#34;&gt;#&lt;/a&gt; 创建文章&lt;/h3&gt;
@@ -337,9 +337,9 @@ type: categories&lt;/p&gt;
         <updated>2024-07-23T10:17:30.000Z</updated>
     </entry>
     <entry>
-        <id>https://yayccc.github.io/2024/03/02/%E4%BA%8C%E5%88%86%E7%AD%94%E6%A1%88/</id>
+        <id>https://yayaccc.us.kg/2024/03/02/%E4%BA%8C%E5%88%86%E7%AD%94%E6%A1%88/</id>
         <title>二分答案</title>
-        <link rel="alternate" href="https://yayccc.github.io/2024/03/02/%E4%BA%8C%E5%88%86%E7%AD%94%E6%A1%88/"/>
+        <link rel="alternate" href="https://yayaccc.us.kg/2024/03/02/%E4%BA%8C%E5%88%86%E7%AD%94%E6%A1%88/"/>
         <content type="html">&lt;h1 id=&#34;二分答案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二分答案&#34;&gt;#&lt;/a&gt; 二分答案&lt;/h1&gt;
 &lt;p&gt;二分答案算法很困扰的地方其实就是写好 &lt;strong&gt;边界条件&lt;/strong&gt;&lt;br /&gt;
 又要写好 check 判断函数的边界，又要写好循环二分的边界条件&lt;/p&gt;
@@ -406,9 +406,9 @@ type: categories&lt;/p&gt;
         <updated>2024-03-02T01:50:56.000Z</updated>
     </entry>
     <entry>
-        <id>https://yayccc.github.io/2024/02/18/hello-world/</id>
+        <id>https://yayaccc.us.kg/2024/02/18/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="https://yayccc.github.io/2024/02/18/hello-world/"/>
+        <link rel="alternate" href="https://yayaccc.us.kg/2024/02/18/hello-world/"/>
         <content type="html">&lt;h1 id=&#34;hello-world&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hello-world&#34;&gt;#&lt;/a&gt; Hello world！&lt;/h1&gt;
 &lt;p&gt;这是这个网站的第一篇 post！&lt;/p&gt;
 &lt;p&gt;这是我建立的个人博客，将来我会在这里写一些文章&lt;br /&gt;
