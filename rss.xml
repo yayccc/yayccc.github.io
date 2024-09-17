@@ -423,5 +423,41 @@ type: categories&lt;/p&gt;
 也希望通过这个网站，帮助到别人&lt;/p&gt;
  ]]></description>
         </item>
+        <item>
+            <guid isPermalink="true">https://yayaccc.us.kg/2024/02/18/%E7%AB%99%E7%82%B9%E6%97%A5%E8%AE%B0/</guid>
+            <title>站点日志</title>
+            <link>https://yayaccc.us.kg/2024/02/18/%E7%AB%99%E7%82%B9%E6%97%A5%E8%AE%B0/</link>
+            <category>博客建立</category>
+            <pubDate>Sun, 18 Feb 2024 20:50:56 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;2024-917&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2024-917&#34;&gt;#&lt;/a&gt; 2024 9.17&lt;/h1&gt;
+&lt;p&gt;最近在考虑将网站收录到各大搜索引擎&lt;br /&gt;
+现已为网站配置 mapsite，并收录于谷歌&lt;br /&gt;
+目前扔托管在 github 上，但 github 禁止百度爬虫&lt;br /&gt;
+目前还未收录于百度&lt;/p&gt;
+&lt;h1 id=&#34;2024-916&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2024-916&#34;&gt;#&lt;/a&gt; 2024 9.16&lt;/h1&gt;
+&lt;p&gt;不想用 github.io 作后缀了，哈哈哈&lt;br /&gt;
+现为网站配置上 yayaccc.us.kg 作为域名&lt;br /&gt;
+突然感觉舒服了，&lt;a href=&#34;http://xn--github-vp7iwhr36rve8aub1dtgma.io&#34;&gt;不是那个长长的 github.io&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;2024-728&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2024-728&#34;&gt;#&lt;/a&gt; 2024 7.28&lt;/h1&gt;
+&lt;p&gt;为不同的博客文章配置了分类属性&lt;br /&gt;
+添加了分类页面&lt;br /&gt;
+可以通过分类浏览类内的文章&lt;/p&gt;
+&lt;h1 id=&#34;2024-727&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2024-727&#34;&gt;#&lt;/a&gt; 2024 7.27&lt;/h1&gt;
+&lt;p&gt;没有网站的 About 怎么行呢&lt;br /&gt;
+已配置 About 页面&lt;/p&gt;
+&lt;h1 id=&#34;2024-418&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2024-418&#34;&gt;#&lt;/a&gt; 2024 4.18&lt;/h1&gt;
+&lt;p&gt;网站没图怎么行呢，想要加载快，还是得用图床&lt;br /&gt;
+使用 hello 图床来存网站的资源，还是挺快的&lt;br /&gt;
+虽然是小厂家，但是稳定性好像还不错，已经运行了六年多了&lt;br /&gt;
+提供的免费额度足够博客使用了&lt;/p&gt;
+&lt;h1 id=&#34;2024-218&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2024-218&#34;&gt;#&lt;/a&gt; 2024 2.18&lt;/h1&gt;
+&lt;p&gt;站点初步建立，使用 hexo+gitpage 的方案&lt;br /&gt;
+ hexo 的社区较为成熟，能找到各种问题的解决方法&lt;br /&gt;
+所以我首选 hexo 进行站点构建&lt;br /&gt;
+主题使用了 shaokX&lt;br /&gt;
+ 站点主要用来技术学习的记录与分享&lt;br /&gt;
+站点将保持长期维护～&lt;/p&gt;
+ ]]></description>
+        </item>
     </channel>
 </rss>

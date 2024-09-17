@@ -23,6 +23,16 @@
             "tags": [
                 "博客建立"
             ]
+        },
+        {
+            "id": "https://yayaccc.us.kg/2024/02/18/%E7%AB%99%E7%82%B9%E6%97%A5%E8%AE%B0/",
+            "url": "https://yayaccc.us.kg/2024/02/18/%E7%AB%99%E7%82%B9%E6%97%A5%E8%AE%B0/",
+            "title": "站点日志",
+            "date_published": "2024-02-18T12:50:56.000Z",
+            "content_html": "<h1 id=\"2024-917\"><a class=\"anchor\" href=\"#2024-917\">#</a> 2024 9.17</h1>\n<p>最近在考虑将网站收录到各大搜索引擎<br />\n现已为网站配置 mapsite，并收录于谷歌<br />\n目前扔托管在 github 上，但 github 禁止百度爬虫<br />\n目前还未收录于百度</p>\n<h1 id=\"2024-916\"><a class=\"anchor\" href=\"#2024-916\">#</a> 2024 9.16</h1>\n<p>不想用 github.io 作后缀了，哈哈哈<br />\n现为网站配置上 yayaccc.us.kg 作为域名<br />\n突然感觉舒服了，<a href=\"http://xn--github-vp7iwhr36rve8aub1dtgma.io\">不是那个长长的 github.io</a></p>\n<h1 id=\"2024-728\"><a class=\"anchor\" href=\"#2024-728\">#</a> 2024 7.28</h1>\n<p>为不同的博客文章配置了分类属性<br />\n添加了分类页面<br />\n可以通过分类浏览类内的文章</p>\n<h1 id=\"2024-727\"><a class=\"anchor\" href=\"#2024-727\">#</a> 2024 7.27</h1>\n<p>没有网站的 About 怎么行呢<br />\n已配置 About 页面</p>\n<h1 id=\"2024-418\"><a class=\"anchor\" href=\"#2024-418\">#</a> 2024 4.18</h1>\n<p>网站没图怎么行呢，想要加载快，还是得用图床<br />\n使用 hello 图床来存网站的资源，还是挺快的<br />\n虽然是小厂家，但是稳定性好像还不错，已经运行了六年多了<br />\n提供的免费额度足够博客使用了</p>\n<h1 id=\"2024-218\"><a class=\"anchor\" href=\"#2024-218\">#</a> 2024 2.18</h1>\n<p>站点初步建立，使用 hexo+gitpage 的方案<br />\n hexo 的社区较为成熟，能找到各种问题的解决方法<br />\n所以我首选 hexo 进行站点构建<br />\n主题使用了 shaokX<br />\n 站点主要用来技术学习的记录与分享<br />\n站点将保持长期维护～</p>\n",
+            "tags": [
+                "博客建立"
+            ]
         }
     ]
 }
