@@ -204,7 +204,18 @@
 &lt;p&gt;在想打开特定文件路径的文件时，&lt;/p&gt;
 &lt;p&gt;“&lt;strong&gt;通用字符名的格式不正确&lt;/strong&gt;”&lt;/p&gt;
 &lt;p&gt;把文件路径的 &lt;code&gt;\&lt;/code&gt;  反斜杠都变为 &lt;code&gt;\\&lt;/code&gt;  两个反斜杠，顺利解决&lt;/p&gt;
- ]]></description>
+&lt;h2 id=&#34;模板&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#模板&#34;&gt;#&lt;/a&gt; 模板&lt;/h2&gt;
+&lt;h3 id=&#34;语法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#语法&#34;&gt;#&lt;/a&gt; 语法&lt;/h3&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;typename&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;T&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;函数声明或定义&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;code&gt;typename&lt;/code&gt;  (可替换为 class) 表明其后面的符号 T 是一种数据类型&lt;/p&gt;
+&lt;h3 id=&#34;注意事项&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#注意事项&#34;&gt;#&lt;/a&gt; 注意事项&lt;/h3&gt;
+&lt;p&gt;在使用模板时，编译器可以自动推导数据类型 T&lt;br /&gt;
+ 但需要注意&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;推导的数据类型 &lt;code&gt;T&lt;/code&gt;  必须一致才能使用&lt;/li&gt;
+&lt;li&gt;使用模板时，即使不传入参数，也要指定数据类型后才能使用模板&lt;br /&gt;
+指定数据类型：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token generic-function&#34;&gt;&lt;span class=&#34;token function&#34;&gt;func&lt;/span&gt;&lt;span class=&#34;token generic class-name&#34;&gt;&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;token comment&#34;&gt;// 技术没有参数也要指定数据类型&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
     </channel>
 </rss>
